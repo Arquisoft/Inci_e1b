@@ -1,0 +1,12 @@
+[submodule "InciDashboard_e1b"]
+	path = InciDashboard_e1b
+	url = https://github.com/Arquisoft/InciDashboard_e1b
+[submodule "InciManager_e1b"]
+	path = InciManager_e1b
+	url = https://github.com/Arquisoft/InciManager_e1b.git
+[submodule "Loader_e1b"]
+	path = Loader_e1b
+	url = https://github.com/Arquisoft/Loader_e1b.git
+[submodule "Agents_e1b"]
+	path = Agents_e1b
+	url = https://github.com/Arquisoft/Agents_e1b.git
