@@ -15,3 +15,11 @@ Repositorio Conjunto Sistema de Gestión de Incidencias
 Nombre | usuario | UO
 --- | --- | ---
 Mario Del Olmo Diaz | [mariodod](https://github.com/mariodod) | UO251090
+Daniel Fuego San Francisco | [Fireruner](https://github.com/Fireruner) | UO251185
+Sergio Fernández Fernández | [sergiofdezfernandez](https://github.com/sergiofdezfernandez) | UO251408
+Pablo Baragaño Coto | [PabloCoto](https://github.com/PabloCoto) | UO251759
+Sergio Rodríguez Artime | [RodriguezArtimeSergio](https://github.com/RodriguezArtimeSergio) | UO248043
+Esteban Montes Morales | [sankosk](https://github.com/sankosk) | UO246305
+Lucía de la Granda Prieto | [luciadelagranda](https://github.com/luciadelagranda) | UO251626
+Pablo Menéndez Suárez | [mistermboy](https://github.com/mistermboy) | UO252406
+Sara Grimaldos Rodríguez | [saritagrimal2](https://github.com/saritagrimal2) | UO251782
