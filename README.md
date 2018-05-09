@@ -23,3 +23,13 @@ Esteban Montes Morales | [sankosk](https://github.com/sankosk) | UO246305
 Lucía de la Granda Prieto | [luciadelagranda](https://github.com/luciadelagranda) | UO251626
 Pablo Menéndez Suárez | [mistermboy](https://github.com/mistermboy) | UO252406
 Sara Grimaldos Rodríguez | [saritagrimal2](https://github.com/saritagrimal2) | UO251782
+
+
+
+## Despliegue:
+- InciManager: https://incimanagere1b.herokuapp.com/ ó http://incimanagere1b.herokuapp.com/
+- InciDashboard: https://github.com/Arquisoft/InciDashboard_e1b/ ó http://github.com/Arquisoft/InciDashboard_e1b/
+- Agents: https://agentse1b.herokuapp.com/ ó http://agentse1b.herokuapp.com/
+
+
+Para más información sobre los módulos acceder a su repositorio correspondiente.
